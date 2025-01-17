@@ -1,1 +1,4 @@
-apikey=32352247c3c64cdd989a10531eff84ad
+17 JAN 2025:-
+- workend on frontend
+- added text to speech feauture in project
+- finded the api for speech to text
