@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import Ttv from "./pages/ttv";
 import Home from "./pages/Home";
 import Vtt from "./pages/Vtt";
+import Ttv from "./pages/ttv";
 function App() {
 
   return (

@@ -2,3 +2,15 @@
 - workend on frontend
 - added text to speech feauture in project
 - finded the api for speech to text
+
+18 JAN 2025:-
+- workend on backend
+- learning whisper 
+
+20 JAN 2025:-
+- settingup python 
+- whisper locally installation
+- settingup whisper
+
+
+

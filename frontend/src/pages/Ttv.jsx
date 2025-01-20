@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Mic } from "lucide-react";
 
-function Ttv() {
+export default function Ttv() {
     const [text, setText] = useState("");
     const [audio, setAudio] = useState(null);
     const [isLoading, setIsLoading] = useState(false);
@@ -36,6 +36,7 @@ function Ttv() {
             audio.play().catch(error => {
                 console.error('Error playing audio:', error);
             });
+            // console.log(audio)
         }
     };
 
@@ -95,5 +96,3 @@ function Ttv() {
         </div>
     );
 }
-
-export default Ttv;
